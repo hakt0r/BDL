@@ -65,3 +65,5 @@ Once you are inside a folder, if you want to go back to the previously folder: â
  - xdg-open .    - open the current directory as if you double clicked it
  - xdg-open test - open the "test" file as if you double clicked it
  - xdg-open https://google.com/ - open google in you preferred webbrowser
+
+ - git - deal with git repositories (see: 03-Git)

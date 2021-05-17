@@ -39,3 +39,5 @@ Description of you changes to the sourcecode. E.g. the diffence from the last ve
 Take all changed files and create a commit with the following message.
 
   $ git push
+
+Upload it to the internet.
