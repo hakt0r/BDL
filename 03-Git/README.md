@@ -1,3 +1,8 @@
+# GIT
+
+Git was created by Linus Torvalds as well :D
+Git is a sofware that lets you share code with others and manage version differences.
+Github is a platform using git for social coding mainly for open-source project (run by Microsoft).
 
 ## Installing git
 
