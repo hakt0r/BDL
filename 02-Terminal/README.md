@@ -37,4 +37,17 @@ A command line consists of the program (e.g. echo) and the arguments (e.g. hello
     rm -rf $SOME_DIR      : nuke a directory from the surface of your harddrive, no questions asked
   - mv $FROM $TO          : move a file or folder $FROM here $TO there.
 
-  GOTCHA
+  Useful command lines: https://www.commandlinefu.com/commands/browse
+
+## GOTCHA: Everything is case sensitive
+
+‘Echo’ is a program we can run in our terminal: it’s command is to repeat everything that follows. 
+What follows the command it’s called argument.
+
+
+## Autocomplete feature
+
+‘cd’ + ‘D’ + TAB*: give us the folders starting with ‘D’ (example: Desktop, Download)
+*if we press TAB 2x it give us what’s inside the selected folder
+
+Once you are inside a folder, if you want to go back to the previously folder: ‘cd’ + TAB
