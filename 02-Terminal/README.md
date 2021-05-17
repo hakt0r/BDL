@@ -5,6 +5,12 @@ The Linux command line is a text interface to your computer. Often referred to a
   - A terminal application is a text input output application
   - A shell is a so called command-line interpreter, a program that takes commands and runs them
 
+## Special folders
+
+  -  ~ : shortcut to your home dir
+  -  . : shortcut for current directory
+  - .. : shortcut for parent directory
+
 A command line consists of the program (e.g. echo) and the arguments (e.g. hello world)
 
   $ echo hello world
@@ -36,6 +42,8 @@ A command line consists of the program (e.g. echo) and the arguments (e.g. hello
   - rmdir  $SOME_DIR      : delete a directory and its contents PERMANENTLY
     rm -rf $SOME_DIR      : nuke a directory from the surface of your harddrive, no questions asked
   - mv $FROM $TO          : move a file or folder $FROM here $TO there.
+  - cp $FROM $TO          : copy a file $FROM here $TO there.
+  - cp -r $FROM $TO       : copy a folder and all it's contents
 
   Useful command lines: https://www.commandlinefu.com/commands/browse
 
@@ -51,3 +59,9 @@ What follows the command it’s called argument.
 *if we press TAB 2x it give us what’s inside the selected folder
 
 Once you are inside a folder, if you want to go back to the previously folder: ‘cd’ + TAB
+
+### Other cool commands
+
+ - xdg-open .    - open the current directory as if you double clicked it
+ - xdg-open test - open the "test" file as if you double clicked it
+ - xdg-open https://google.com/ - open google in you preferred webbrowser
