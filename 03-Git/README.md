@@ -1,6 +1,6 @@
 # GIT
 
-Git was created by Linus Torvalds as well :D
+Git was created by Linus Torvalds as well :D Because the old version control systems all s****@.
 Git is a sofware that lets you share code with others and manage version differences.
 Github is a platform using git for social coding mainly for open-source project (run by Microsoft).
 
