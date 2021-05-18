@@ -67,3 +67,27 @@ Once you are inside a folder, if you want to go back to the previously folder: â
  - xdg-open https://google.com/ - open google in you preferred webbrowser
 
  - git - deal with git repositories (see: 03-Git)
+
+ - history - show what you did so far
+ - curl    - commandline downloader for web pages and stuff from the internet in general
+ - nano    - commandline text editor
+   - ctrl - o : save file, then press enter to actually do that
+   - ctrl - x : close the editor
+  
+ - pkexec / sudo : run a command as admin
+
+## Installing stuff ;D
+
+APT is the tool to install stuff for your whole system, and keep it up to date.
+
+  - sudo apt update  - get a list of updated software packages
+  - sudo apt upgrade - run a systemwide update
+  - sudo apt install $PACKAGE - install the $PACKAGE package
+  - sudo apt remove $PACKAGE - uninstall the $PACKAGE package
+
+SNAP is a solution by ubuntu to install 3rd party application, systemwide
+
+  - sudo snap install $PACKAGE
+
+NPM is the nodejs package manager. It's the tool we are going to use use the most.
+
