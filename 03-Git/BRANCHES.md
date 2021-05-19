@@ -54,6 +54,6 @@ the different versions, or options.
 5 >>>>>>>>>
 ```
 
-You are suppoosed to choose the right version (or both) and delete the special
+You are supposed to choose the right version (or both) and delete the special
 code.
 
