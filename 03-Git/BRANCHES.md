@@ -1,5 +1,5 @@
 # Branches
-Branches diffrent versions of a progam, inside one repo.
+Branches are different versions of a progam, inside one repo.
 Opposed to Forks branches exist in one repo. Forks on the other hand
 are copies of repos. They can have the same branches but also more or
 less branches as the original repo.
@@ -11,7 +11,7 @@ my code and merge it with yours.
 
 ## Workflows
 Workflow are procedures that tell us how the code should flow.
-Consider the the follwing repo with 2 branches.
+Consider the follwing repo with 2 branches.
 
 hakt0r/nuu
  - main (stable version of my game)
@@ -38,6 +38,23 @@ first then into main if they are stable.
 
 ### Sadly: this can lead to conflicts
 
-Merge conflicts are bad, no point in denying this. THery hard to solve,
+Merge conflicts are bad, no point in denying this. They are hard to solve,
 luckily we have git and if something goes we can try to fix and go
 back to the original versions.
+
+In a merge confict you will be asked what the final version of the
+file will be. Usually denoted with a special syntax that show you
+the different versions, or options.
+
+```
+1 <<<<<<<<<
+2 One version 
+3 =========
+4 Another version
+5 >>>>>>>>>
+```
+
+You are supposed to choose the right version (or both) and delete the special
+code.
+
+Changed by Sempris
