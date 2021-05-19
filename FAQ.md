@@ -13,4 +13,4 @@ git, github, vscode, Mouse, Monitors...
 GNU is not linux GNU is not linux GNU is not linux.
 Basically thats GNU :)
 
-test
+I tried a pull request with terminal and it worked
