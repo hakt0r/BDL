@@ -29,7 +29,7 @@ A command line consists of the program (e.g. echo) and the arguments (e.g. hello
   - ls: list of files and folders
       ls -lh
 
-  CARPE TAB!!! Use the tablulator key as often as possible
+  CARPE TAB!!! Use the tabulator key as often as possible
   
   - man: display information on command line programs
       use 'q' to close the man
