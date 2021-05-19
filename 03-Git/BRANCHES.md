@@ -1,5 +1,5 @@
 # Branches
-Branches diffrent versions of a progam, inside one repo.
+Branches are different versions of a progam, inside one repo.
 Opposed to Forks branches exist in one repo. Forks on the other hand
 are copies of repos. They can have the same branches but also more or
 less branches as the original repo.
