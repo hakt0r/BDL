@@ -38,7 +38,7 @@ first then into main if they are stable.
 
 ### Sadly: this can lead to conflicts
 
-Merge conflicts are bad, no point in denying this. THery hard to solve,
+Merge conflicts are bad, no point in denying this. They are hard to solve,
 luckily we have git and if something goes we can try to fix and go
 back to the original versions.
 
