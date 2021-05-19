@@ -11,7 +11,7 @@ my code and merge it with yours.
 
 ## Workflows
 Workflow are procedures that tell us how the code should flow.
-Consider the the follwing repo with 2 branches.
+Consider the the following repo with 2 branches.
 
 hakt0r/nuu
  - main (stable version of my game)
