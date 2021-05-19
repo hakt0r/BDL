@@ -5,7 +5,7 @@ The Linux command line is a text interface to your computer. Often referred to a
   - A terminal application is a text input output application
   - A shell is a so called command-line interpreter, a program that takes commands and runs them
 
-## Special folders
+## Special folders....
 
   -  ~ : shortcut to your home dir
   -  . : shortcut for current directory
