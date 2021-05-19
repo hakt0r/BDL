@@ -76,6 +76,8 @@ Once you are inside a folder, if you want to go back to the previously folder: â
   
  - pkexec / sudo : run a command as admin
 
+ - code $FILE_OR_FOLDER : open a file or folder in vscode from the terminal
+
 ## Installing stuff ;D
 
 APT is the tool to install stuff for your whole system, and keep it up to date.
@@ -91,3 +93,8 @@ SNAP is a solution by ubuntu to install 3rd party application, systemwide
 
 NPM is the nodejs package manager. It's the tool we are going to use use the most.
 
+  - sudo npm -g install $PACKAGE
+    - sudo and -g respectively because we want to install system-wide
+    - sudo npm -g install npm : npm updates itself
+    - sudo npm -g install http-server : installs your own personal video streaming site
+  - sudo npm -g remove $PACKAGE
