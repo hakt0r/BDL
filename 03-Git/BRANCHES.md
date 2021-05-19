@@ -47,12 +47,13 @@ file will be. Usually denoted with a special syntax that show you
 the different versions, or options.
 
 ```
-<<<<<<<<<
-One version 
-=========
-Another version
->>>>>>>>>
+1 <<<<<<<<<
+2 One version 
+3 =========
+4 Another version
+5 >>>>>>>>>
 ```
 
 You are suppoosed to choose the right version (or both) and delete the special
 code.
+MERGE CONFLICT ARE BAD FOR YOOAAA HEALTH!!!!
