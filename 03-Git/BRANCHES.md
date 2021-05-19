@@ -38,7 +38,7 @@ first then into main if they are stable.
 
 ### Sadly: this can lead to conflicts
 
-Merge conflicts are bad, no point in denying this. THery hard to solve,
+Merge conflicts are bad, no point in denying this. They are hard to solve,
 luckily we have git and if something goes we can try to fix and go
 back to the original versions.
 
@@ -54,6 +54,7 @@ the different versions, or options.
 5 >>>>>>>>>
 ```
 
-You are suppoosed to choose the right version (or both) and delete the special
+You are supposed to choose the right version (or both) and delete the special
 code.
 
+Changed by Sempris

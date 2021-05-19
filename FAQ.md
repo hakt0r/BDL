@@ -8,3 +8,9 @@
 ## Whats BDL
 Basic Digital Litaracy - How to deal with computers'n'stuff. Ubuntu, Linux, Terminal,
 git, github, vscode, Mouse, Monitors...
+
+## Is Linux an OS? No! Linux is not an OS! Linux is a kernel!
+
+### What is GNU
+GNU is not linux GNU is not linux GNU is not linux.
+Basically thats GNU :)
