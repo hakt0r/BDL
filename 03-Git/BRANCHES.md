@@ -1,5 +1,5 @@
 # Branches
-Branches diffrent versions of a progam, inside one repo.
+Branches are different versions of a progam, inside one repo.
 Opposed to Forks branches exist in one repo. Forks on the other hand
 are copies of repos. They can have the same branches but also more or
 less branches as the original repo.
@@ -11,7 +11,7 @@ my code and merge it with yours.
 
 ## Workflows
 Workflow are procedures that tell us how the code should flow.
-Consider the the follwing repo with 2 branches.
+Consider the follwing repo with 2 branches.
 
 hakt0r/nuu
  - main (stable version of my game)
