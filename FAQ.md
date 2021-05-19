@@ -8,3 +8,7 @@
 ## Whats BDL
 Basic Digital Litaracy - How to deal with computers'n'stuff. Ubuntu, Linux, Terminal,
 git, github, vscode, Mouse, Monitors...
+
+### What is GNU
+GNU is not linux GNU is not linux GNU is not linux.
+Basically thats GNU :)
