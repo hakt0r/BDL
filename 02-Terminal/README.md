@@ -90,7 +90,7 @@ APT is the tool to install stuff for your whole system, and keep it up to date.
 SNAP is a solution by ubuntu to install 3rd party application, systemwide
 
   - sudo snap install $PACKAGE
-
+...
 NPM is the nodejs package manager. It's the tool we are going to use use the most.
 
   - sudo npm -g install $PACKAGE
