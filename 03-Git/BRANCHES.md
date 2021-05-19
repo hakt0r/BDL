@@ -41,3 +41,18 @@ first then into main if they are stable.
 Merge conflicts are bad, no point in denying this. THery hard to solve,
 luckily we have git and if something goes we can try to fix and go
 back to the original versions.
+
+In a merge confict you will be asked what the final version of the
+file will be. Usually denoted with a special syntax that show you
+the different versions, or options.
+
+```
+<<<<<<<<<
+One version 
+=========
+Another version
+>>>>>>>>>
+```
+
+You are suppoosed to choose the right version (or both) and delete the special
+code.
