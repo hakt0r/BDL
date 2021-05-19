@@ -41,3 +41,5 @@ first then into main if they are stable.
 Merge conflicts are bad, no point in denying this. THery hard to solve,
 luckily we have git and if something goes we can try to fix and go
 back to the original versions.
+
+MERGE CONFLICT ARE BAD FOR YOOAAA HEALTH!!!!
