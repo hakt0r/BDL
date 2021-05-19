@@ -56,4 +56,3 @@ the different versions, or options.
 
 You are suppoosed to choose the right version (or both) and delete the special
 code.
-MERGE CONFLICT ARE BAD FOR YOOAAA HEALTH!!!!
