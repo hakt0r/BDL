@@ -29,7 +29,7 @@ A command line consists of the program (e.g. echo) and the arguments (e.g. hello
   - ls: list of files and folders
       ls -lh
 
-  CARPE TAB!!! Use the tablulator key as often as possible
+  CARPE TAB!!! Use the tabulator key as often as possible
   
   - man: display information on command line programs
       use 'q' to close the man
@@ -98,3 +98,7 @@ NPM is the nodejs package manager. It's the tool we are going to use use the mos
     - sudo npm -g install npm : npm updates itself
     - sudo npm -g install http-server : installs your own personal video streaming site
   - sudo npm -g remove $PACKAGE
+
+## Difference between them
+Difference between apt, snap, npm is that apt is used for system updates and snap for
+3d party apps, while npm is used for updating programing packages.
