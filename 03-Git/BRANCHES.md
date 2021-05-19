@@ -4,6 +4,26 @@ Opposed to Forks branches exist in one repo. Forks on the other hand
 are copies of repos. They can have the same branches but also more or
 less branches as the original repo.
 
+Create branches like this:
+
+```
+  git branch $NAME
+```
+
+To switch to a branch:
+
+```
+  git checkout $NAME
+```
+
+Or all at once:
+
+```
+  git checkout -b $NAME
+```
+
+This will creat a branch and then switch to it!
+
 ## Pull Requests
 On github a fork or a different branch can be merged into another branch
 by issueing a pull request. This is basically the qustion can you take 
@@ -58,3 +78,38 @@ You are supposed to choose the right version (or both) and delete the special
 code.
 
 Changed by Sempris
+
+## If pulling goes wrong
+
+git pull
+
+Auto-merging 03-Git/BRANCHES.md
+CONFLICT (content): Merge conflict in 03-Git/BRANCHES.md
+Auto-merging .gitignore
+CONFLICT (content): Merge conflict in .gitignore
+Automatic merge failed; fix conflicts and then commit the result.
+
+a conflict comes up... but you dont want to deal with it now...
+
+git merge --abort
+
+## Rebasing
+
+git pull --rebase
+
+Rebasing is like pulling but you take the remote code and put your
+local changes ontop of that. Only makes sense, but alot of that,
+if you have commits on you compouter that the github repo does not have.
+
+**If pull --rebase goes wrong**
+
+git rebase --abort
+
+## If you want to DELETE ALL YOUR LOCAL WORK
+... and just get the updates from github
+
+git reset --hard origin main
+git reset --hard $REMOTE $BRANCH
+
+This is freaking' dangrous, you could loose all your work.
+
