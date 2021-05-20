@@ -17,7 +17,7 @@ done
 
 echo MARKDOWN STAGE 1
 
-for i in hakt0r Grzegorz-Gebala Malika-1989 belaLababidi \
+for i in Grzegorz-Gebala Malika-1989 belaLababidi \
   DCIProject Hamiddci Eko450-eng stasiks1001 BensDevDe midoritiba\
   belowsurface3000 teejayblack Andreydci Sempris ramazankarisan \
   AntonisZaravelas Spearsofcodes naomininnig noureddinalsabbagh; do
@@ -25,9 +25,10 @@ for i in hakt0r Grzegorz-Gebala Malika-1989 belaLababidi \
     grep -q 200 && echo $i ok || echo $i fail https://raw.githubusercontent.com/$i/markdown/main/README.md
 done
 
+
 echo MARKDOWN STAGE 2
 
-for i in hakt0r Grzegorz-Gebala Malika-1989 belaLababidi \
+for i in Grzegorz-Gebala Malika-1989 belaLababidi \
   DCIProject Hamiddci Eko450-eng stasiks1001 BensDevDe midoritiba\
   belowsurface3000 teejayblack Andreydci Sempris ramazankarisan \
   AntonisZaravelas Spearsofcodes naomininnig noureddinalsabbagh; do

@@ -15,4 +15,3 @@ git, github, vscode, Mouse, Monitors...
 GNU is not linux GNU is not linux GNU is not linux.
 Basically thats GNU :)
 
-Just Testing here
