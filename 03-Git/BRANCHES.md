@@ -116,4 +116,3 @@ git reset --hard origin main
 git reset --hard $REMOTE $BRANCH
 
 This is freaking' dangrous, you could loose all your work.
-
