@@ -128,4 +128,6 @@ Aaaand it's gone
 Sometimes you need just one file from another branch...
 in that case you can also you checkout:
 
-git checkout $BRANCH -- $FILE
+```
+  git checkout $BRANCH -- $FILE1 [$FILE2]
+```

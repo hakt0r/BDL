@@ -18,7 +18,7 @@ In order to do that you need to know the URL.
 ## Pulling a repo
 
 By pulling we update a local repo with the current information from the internet.
-You have to be in the directory in order to git pull for a specific repo.
+you have to be in the directory in order to git pull for a specific repo.
 
   $ cd $REPO_DIR
   $ git pull
