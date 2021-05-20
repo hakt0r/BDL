@@ -93,6 +93,8 @@ a conflict comes up... but you dont want to deal with it now...
 
 git merge --abort
 
+This will give you all the files you had before the pull.
+
 ## Rebasing
 
 git pull --rebase
@@ -104,6 +106,8 @@ if you have commits on you compouter that the github repo does not have.
 **If pull --rebase goes wrong**
 
 git rebase --abort
+
+This will give you all the files you had before the pull.
 
 ## If you want to DELETE ALL YOUR LOCAL WORK
 ... and just get the updates from github
