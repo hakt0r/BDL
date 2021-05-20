@@ -116,3 +116,16 @@ git reset --hard origin main
 git reset --hard $REMOTE $BRANCH
 
 This is freaking' dangrous, you could loose all your work.
+
+## Delete branches
+
+git branch -d $NAME
+
+Aaaand it's gone
+
+## Checkout files from another branch individually
+
+Sometimes you need just one file from another branch...
+in that case you can also you checkout:
+
+git checkout $BRANCH -- $FILE
