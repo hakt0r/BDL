@@ -33,19 +33,19 @@ Will give you info on your curren branch, if there are updates or if you changed
 
   $ git add $PATH_TO_CHANGED_FILE_OR_FOLDER
 
-Prepare a file to be comitted (make git aware of the changes)
+Prepare a file to be committed (make git aware of the changes)
 
   $ git commit -m "$A_COMMIT_MESSAGE"
 
  - -m : commit message is the next argument (optional)
 
-Description of you changes to the sourcecode. E.g. the diffence from the last version.
+Description of you changes to the source code. E.g. the difference from the last version.
 
   $ git commit -a -m "$A_COMMIT_MESSAGE"
 
 Take all changed files and create a commit with the following message.
- - -a : take all the changed files
- - -m : commit message is the next argument
+- -a : take all the changed files
+- -m : commit message is the next argument
 
   $ git push
 
